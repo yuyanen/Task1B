@@ -4,7 +4,7 @@ Task1B is split into 3 parts.
 Clone the repository
 
 ```
-git clone https://github.com/TIC3001/Task1B.git
+git clone https://github.com/TIC3001-AY2223S2/Task1B.git
 cd Task1B
 ```
 
