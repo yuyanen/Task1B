@@ -16,10 +16,10 @@ spec:
     spec:
       containers:
         - name: backend
-          image: task1b:latest
+          image: task1b:mytag
           ports:
             - name: http
-              containerPort: 80
+              containerPort: 4000
           resources:
             limits:
               cpu: 40m
